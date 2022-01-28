@@ -1,5 +1,4 @@
-# test
-test
+# Instruction 
 - Training.py: It is used to train and generate the pre-trained model in the source domain and the target model in the target domain. There are instructions on how to generate the two models in the source code (can run in both CPU and GPU environments).
 - Prediction.py: Used to make predictions on the model. 
 - B.subtilis, D.melanogaster, E.coli, S.cerevisiae: Promoter and non-promoter sequence files for the four organisms. 
